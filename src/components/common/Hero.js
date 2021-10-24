@@ -1,6 +1,6 @@
 import React from "react";
 
-function Hero({ aboutRef }) {
+function Hero() {
   return (
     <section class="home">
       <div class="bg flex wrap">

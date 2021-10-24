@@ -54,8 +54,8 @@ function App() {
         searchBoxRef={searchBoxRef}
         searchHandler={searchHandler}
       />
-      <Hero aboutRef={aboutRef} />
-      <About />
+      <Hero />
+      <About aboutRef={aboutRef} />
       <Footer />
     </>
   );
