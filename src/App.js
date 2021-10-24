@@ -55,7 +55,7 @@ function App() {
         searchHandler={searchHandler}
       />
       <Hero aboutRef={aboutRef} />
-      <About aboutRef={aboutRef} />
+      <About />
       <Footer />
     </>
   );
