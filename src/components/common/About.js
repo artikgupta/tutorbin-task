@@ -1,5 +1,4 @@
 import React from "react";
-import text from "../data.json";
 
 function About({ aboutRef }) {
   return (
